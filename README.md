@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnoleary317 I'm a 66 year old junior at DeVry University Online
+- 👋 Hi, I’m @johnoleary317 I'm a 67 year old senior at DeVry University Online
 - 👀 I’m interested in IT internships. Any suggestions will be greatly appreciated.
 - 🌱 I’m currently studying IT and Networking. I'm also studying various coding on Codecademy. Python 2 and 3.0, JS, SQL, ASP.NET, and other things.
 
